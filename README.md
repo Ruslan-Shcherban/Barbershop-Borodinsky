@@ -1,6 +1,4 @@
-﻿*Личный проект «Barbershop»
-
-*
+Личный проект "Barbershop"
 
 Студент: [Ruslan Shcherban]
 (https://up.htmlacademy.ru/htmlcss/20/user/104524).
